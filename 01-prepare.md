@@ -1,4 +1,4 @@
-# init
+# prepare
 ```
 source <(kubectl completion bash)
 alias k="kubectl"
